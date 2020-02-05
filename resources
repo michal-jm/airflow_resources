@@ -7,3 +7,6 @@ https://eng.lyft.com/securing-apache-airflow-ui-with-dag-level-access-a7bc649a28
 
 # airflow zero to production
 https://medium.com/@grahamplace/airflow-zero-to-production-aa145ea72fe9
+
+# getting started with airflow - includes dag example
+https://towardsdatascience.com/getting-started-with-apache-airflow-df1aa77d7b1b
